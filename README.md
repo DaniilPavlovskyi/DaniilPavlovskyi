@@ -17,10 +17,6 @@ I am a passionate Java Developer with experience in building scalable and secure
 Polish-Japanese Academy of Computer Technology, Warsaw  
 _Expected graduation: 2025_
 
-## 🛠 Certifications
-- **AWS Academy Cloud Foundations** – May 2024
-- **Udemy Spring Framework Course** – June-August 2023
-
 ## 🌍 Languages
 - English (B2)
 - Polish (B2)
