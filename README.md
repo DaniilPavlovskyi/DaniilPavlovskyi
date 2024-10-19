@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Daniil Pavlovskyi
 
-<!--
-**DaniilPavlovskyi/DaniilPavlovskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Java Developer with experience in building scalable and secure web applications. I enjoy learning new technologies and applying best practices in software development to deliver high-quality solutions. Currently, I am working with **Java**, **Spring Boot**, **Hibernate**, and **Docker** to create efficient backend systems.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Languages:** Java, SQL
+- **Frameworks:** Spring (Core, Boot, Security, MVC, Web), Hibernate, JPA
+- **Databases:** MySQL, PostgreSQL
+- **Testing:** JUnit, Mockito
+- **DevOps:** Docker, Kubernetes, Jenkins
+- **Version Control:** Git, GitHub
+- **Cloud:** AWS (Cloud Foundations)
+- **Others:** Kafka, Postman, Thymeleaf, Lombok, OOP, SOLID principles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+**Bachelor's in Computer Technologies**  
+Polish-Japanese Academy of Computer Technology, Warsaw  
+_Expected graduation: 2025_
+
+## 🛠 Certifications
+- **AWS Academy Cloud Foundations** – May 2024
+- **Udemy Spring Framework Course** – June-August 2023
+
+## 🌍 Languages
+- English (B2)
+- Polish (B2)
+- Russian (C2)
+- Ukrainian (C1)
+
+## 📫 Let's connect!
+- [LinkedIn](https://www.linkedin.com/in/daniil-pavlovskyi-469850274/)
+- [GitHub](https://github.com/DaniilPavlovskyi)
+
