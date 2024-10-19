@@ -26,4 +26,5 @@ _Expected graduation: 2025_
 ## 📫 Let's connect!
 - [LinkedIn](https://www.linkedin.com/in/daniil-pavlovskyi-469850274/)
 - [GitHub](https://github.com/DaniilPavlovskyi)
+- [Telegram](https://t.me/molekula0192)
 
