@@ -42,9 +42,6 @@ I am a passionate Java Developer with experience in building scalable and secure
 Polish-Japanese Academy of Computer Technology, Warsaw  
 _Expected graduation: 2025_
 
-## 🌍 Languages
-English (B2) | Polish (B2) | Russian (C2) | Ukrainian (C1)
-
 ## 📫 Let's connect!
 [LinkedIn](https://linkedin.com/in/daniil-pavlovskyi-469850274) | 
 [GitHub](https://github.com/DaniilPavlovskyi) |
