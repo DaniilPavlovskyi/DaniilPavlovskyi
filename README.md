@@ -3,7 +3,7 @@
 I am a passionate Java Developer with experience in building scalable and secure web applications. I enjoy learning new technologies and applying best practices in software development to deliver high-quality solutions. Currently, I am working with **Java**, **Spring Boot**, **Hibernate**, and **Docker** to create efficient backend systems.
 
 ## 🔧 Technologies & Tools
-- **Languages:** Java, SQL
+- **Languages:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white), ![SQL](https://www.svgrepo.com/show/369980/database-sql.svg)
 - **Frameworks:** Spring (Core, Boot, Security, MVC, Web), Hibernate, JPA
 - **Databases:** MySQL, PostgreSQL
 - **Testing:** JUnit, Mockito
