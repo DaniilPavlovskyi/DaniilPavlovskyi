@@ -59,7 +59,7 @@ _Expected graduation: 2025_
 - Ukrainian (C1)
 
 ## 📫 Let's connect!
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniil-pavlovskyi-469850274) 
-- [GitHub](https://github.com/DaniilPavlovskyi)
-- [Telegram](https://t.me/molekula0192)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniil-pavlovskyi-469850274) 
+[GitHub](https://github.com/DaniilPavlovskyi)
+[Telegram](https://t.me/molekula0192)
 
